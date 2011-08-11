@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cooperative">
+</Property><Property Name="Solution File" Value="D:\Temp\Cooperative1\Cooperative\Cooperative.sln">
+</Property><Property Name="User Options File" Value="D:\Temp\Cooperative1\Cooperative\Cooperative.suo">
+</Property><Property Name="Date" Value="8 สิงหาคม 2554">
+</Property><Property Name="Time" Value="13:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cooperative.sln" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Cooperative.suo" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative.suo">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Cooperative.csproj" Description="Project file successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Cooperative.csproj">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\connectDataBase.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\connectDataBase.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmCashCoop.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmCashCoop.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmCashCoop.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmCashCoop.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmFindMember.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmFindMember.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmFindMember.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmFindMember.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmInformDeath.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmInformDeath.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmInformDeath.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmInformDeath.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmLogin.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmLogin.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmMain.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmMain.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmRegister.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmRegister.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmRegister.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmRegister.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Program.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Program.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\User.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\User.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\UserLogin.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\UserLogin.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\WindowsLogin.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\WindowsLogin.cs">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Properties\Settings.settings" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\users.gif" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\users.gif">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\tutorial-btn-preview.png" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\tutorial-btn-preview.png">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\wap0000.png" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\wap0000.png">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\info.gif" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\info.gif">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\cash1.gif" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\cash1.gif">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\tutorial-btn-new-field.png" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\tutorial-btn-new-field.png">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\exit.gif" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\exit.gif">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Resources\icon_search.gif" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Resources\icon_search.gif">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmCashCoop.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmCashCoop.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmFindMember.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmFindMember.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmInformDeath.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmInformDeath.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmLogin.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmMain.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\frmRegister.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\frmRegister.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Properties\Resources.resx" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\Backup\Cooperative\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Cooperative.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cooperative" Source="Cooperative\Cooperative.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cooperative.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Cooperative.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Cooperative" Source="Cooperative\Cooperative.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

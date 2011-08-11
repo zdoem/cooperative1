@@ -1,0 +1,15 @@
+obj\Debug\Cooperative.exe
+obj\Debug\Cooperative.pdb
+bin\Debug\Cooperative.exe
+bin\Debug\Cooperative.pdb
+bin\Debug\LogingSendID.dll
+bin\Debug\LogingSendID.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cooperative.frmFindMember.resources
+obj\Debug\Cooperative.frmInformDeath.resources
+obj\Debug\Cooperative.frmLogin.resources
+obj\Debug\Cooperative.frmMain.resources
+obj\Debug\Cooperative.frmRegister.resources
+obj\Debug\Cooperative.Properties.Resources.resources
+obj\Debug\Cooperative.csproj.GenerateResource.Cache
+obj\Debug\Cooperative.frmCashCoop.resources
