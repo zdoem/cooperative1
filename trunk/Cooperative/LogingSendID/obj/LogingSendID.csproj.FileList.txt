@@ -1,0 +1,5 @@
+bin\Debug\LogingSendID.dll
+bin\Debug\LogingSendID.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LogingSendID.dll
+obj\Debug\LogingSendID.pdb

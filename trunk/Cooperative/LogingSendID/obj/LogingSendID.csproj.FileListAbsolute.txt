@@ -1,0 +1,5 @@
+C:\job_csharp_tmp1\Cooperative\LogingSendID\bin\Debug\LogingSendID.dll
+C:\job_csharp_tmp1\Cooperative\LogingSendID\bin\Debug\LogingSendID.pdb
+C:\job_csharp_tmp1\Cooperative\LogingSendID\obj\Debug\ResolveAssemblyReference.cache
+C:\job_csharp_tmp1\Cooperative\LogingSendID\obj\Debug\LogingSendID.dll
+C:\job_csharp_tmp1\Cooperative\LogingSendID\obj\Debug\LogingSendID.pdb

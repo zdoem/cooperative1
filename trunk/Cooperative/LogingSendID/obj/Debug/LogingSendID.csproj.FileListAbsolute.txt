@@ -1,0 +1,3 @@
+D:\Temp\Cooperative1\Cooperative\LogingSendID\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Cooperative1\Cooperative\LogingSendID\obj\Debug\LogingSendID.dll
+D:\Temp\Cooperative1\Cooperative\LogingSendID\obj\Debug\LogingSendID.pdb

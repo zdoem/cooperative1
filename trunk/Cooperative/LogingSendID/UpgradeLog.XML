@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LogingSendID">
+</Property><Property Name="Solution File" Value="D:\Temp\Cooperative1\Cooperative\LogingSendID\LogingSendID.sln">
+</Property><Property Name="Date" Value="9 สิงหาคม 2554">
+</Property><Property Name="Time" Value="11:58:20">
+</Property></Properties><Event ErrorLevel="0" Project="LogingSendID" Source="LogingSendID.csproj" Description="Project file successfully backed up as D:\Temp\Cooperative1\Cooperative\LogingSendID\Backup\LogingSendID.csproj">
+</Event><Event ErrorLevel="0" Project="LogingSendID" Source="LogingSendID.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\LogingSendID\Backup\LogingSendID.cs">
+</Event><Event ErrorLevel="0" Project="LogingSendID" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Temp\Cooperative1\Cooperative\LogingSendID\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LogingSendID" Source="LogingSendID.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LogingSendID" Source="LogingSendID.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LogingSendID" Source="LogingSendID.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
